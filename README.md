@@ -28,3 +28,7 @@
 ### 3. Chat UI: Design the chat interface using your chosen styling library.
 ### 4. Chat Backend: Connect the chat UI with Firestore to send and retrieve messages in real-time.
 ### 5. Chat Rooms: Implement the ability to create and join chat rooms.
+### 6. Chat Rooms: Implement the ability to create and join chat rooms.
+### 7. User Profile: Allow users to view and edit their profiles.
+### 8. Testing: Write unit tests for your components using a testing library (e.g., @testing-library/react).
+### 9. Deployment: Deploy your application on a platform of your choice (e.g., Firebase Hosting, Vercel, Netlify).
